@@ -1,0 +1,14 @@
+var food = "fruit";
+var isDelicious = true;
+
+food = "vegetables";
+
+var num2 = 43;
+var num7 = 85;
+
+var quotient = num7 / num2;
+
+var songs = ["Imagine", "Yesterday", "Let It Be"];
+songs.shift();
+
+var characters = food.length;
