@@ -1,0 +1,13 @@
+Class: FineDining
+
+Attributes:
+numberOfTables (integer)
+headChefName (string)
+hasOutdoorSeating (boolean)
+wines (array)
+
+Methods:
+implementCovidProtocol (reduces numberOfTables by 50%)
+replaceHeadChef (changes headChefName to the new chef's name)
+buildPatio (changes hasOutdoorSeating to true)
+addWine (adds a new wine option to the wine array)
