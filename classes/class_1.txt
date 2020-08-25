@@ -1,0 +1,13 @@
+Class: FastFood
+
+Attributes:
+numberOfEmployees (integer)
+special (string)
+isOpen (boolean)
+sides (array)
+
+Methods:
+callInSick (subtracts numberOfEmployees by 1)
+updateSpecial (changes the special to something new)
+plugInOpenSign (changes isOpen to true)
+addSide (adds a new side dish option to the sides array)
