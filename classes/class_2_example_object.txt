@@ -1,0 +1,13 @@
+Object: Uchi Denver
+
+Attributes:
+numberOfTables = 18
+headChefName = "Tyson Cole"
+hasOutdoorSeating = false
+wines = [“white”, "red", “rose”]
+
+Methods:
+implementCovidProtocol: numberOfTables = 9
+replaceHeadChef: headChefName = "Lucas Chandler"
+buildPatio: hasOutdoorSeating = true
+addWine: wines = [“white”, "red", “rose”, "sparkling"]
