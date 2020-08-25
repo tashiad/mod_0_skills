@@ -1,0 +1,13 @@
+Object: Chipotle
+
+Attributes:
+numberOfEmployees = 12
+special = "queso burrito"
+isOpen = false
+sides = [“chips”, “guac”, “salsa”, “beans”, “rice”]
+
+Methods:
+callInSick: numberOfEmployees = 11
+updateSpecial: special = "fish tacos"
+plugInOpenSign: isOpen = true
+addSide: sides = [“chips”, “guac”, “salsa”, “beans”, “rice”, "queso"]
